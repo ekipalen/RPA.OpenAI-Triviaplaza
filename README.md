@@ -10,6 +10,7 @@ The robot uses the [RPA.Browser.Playwright](https://robocorp.com/docs/libraries/
 
 https://user-images.githubusercontent.com/84192057/220574818-bb99d51e-2f1b-43f5-af33-eb417d0fac26.mp4
 
+
 <img src="images/result.png" style="margin-bottom:20px">
 
 ## Learning materials
