@@ -15,7 +15,7 @@ dependencies:
     # Define pip packages here -> https://pypi.org/
     - robotframework-browser==13.6.0  # https://github.com/MarketSquare/robotframework-browser/releases
     - rpaframework==19.4.1            # https://rpaframework.org/releasenotes.html
-    - rpaframework-openai==1.0.1
+    - rpaframework-openai==1.1.2
 
 rccPostInstall:
   - rfbrowser init                    # Initialize Playwright
